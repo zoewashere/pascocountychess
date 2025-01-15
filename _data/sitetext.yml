@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Welcome to our Studio!
     text: It's Nice To Meet You
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#about"
 
   services:
     title: "Services"
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Come enjoy playing a game of chess.  Are you interested in learning to play? Our volunteers can teach you. Already know how, but need someone to play against? That's good, too!  Boards and pieces are provided.  Please bring your own chess clock if you prefer to play with one. This club is open to all ages and abilities."
     section: about
 
   clients:
